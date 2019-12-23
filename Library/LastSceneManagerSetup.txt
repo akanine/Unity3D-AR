@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BrokenVector/LowPolyWinterPack/Example/Winter Pack Example.unity
+  isLoaded: 1
+  isActive: 1
